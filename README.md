@@ -30,4 +30,5 @@ The following image shows the web application's appearance and functionality:
 
 # Links:
 GitHub: https://github.com/olivialammam/note-taker-express
+
 Heroku: https://tranquil-cove-68026.herokuapp.com/
