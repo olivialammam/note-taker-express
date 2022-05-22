@@ -1,14 +1,25 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "# Description: Note taker is an application that can be used to write and save notes. This application uses an Express.js back end. It saves and retrieve note data from a JSON file.",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olivialammam/note-taker-express.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/olivialammam/note-taker-express/issues"
+  },
+  "homepage": "https://github.com/olivialammam/note-taker-express#readme"
 }
