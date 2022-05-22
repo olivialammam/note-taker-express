@@ -24,6 +24,10 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 # Mock-Up:
-The following images show the web application's appearance and functionality:
+The following image shows the web application's appearance and functionality:
+![ursul](https://user-images.githubusercontent.com/95842420/169678307-8e94efed-065e-4850-a7ee-352e694b2be9.png)
 
-# GitHub:
+
+# Links:
+GitHub: https://github.com/olivialammam/note-taker-express
+Heroku: https://tranquil-cove-68026.herokuapp.com/
